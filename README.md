@@ -17,7 +17,7 @@ Atualmente estou trabalhando na Agilus. É uma empresa de software que possui um
 ## **estudando**
 Acredito que todas as linguagens e tecnologias tem seus pros e contras, além de todas terem o seu charme. No momento estou focado em aprender sobre o mundo de testes (TDD. jest) e como funciona todo o "mundo" do node.js (express, rotas, orm's, testes, arquitetura e tudo mais)
 
-## **contato**
+## **Contato**
 -   [Facebook](https://www.facebook.com/henrique.vilanovacarvalho/)
 -   [Linkedin](https://www.linkedin.com/in/henrique-vilanova-carvalho/)
 -   [Email](mailto:henriquevc93@gmail.com)
